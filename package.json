@@ -1,0 +1,23 @@
+{
+  "name": "css-analyzer",
+  "version": "0.0.1",
+  "description": "A simple tool to parse your CSS file and get selector and declaration counts.",
+  "keywords": ["css, selectors, declaration, media query, selector count"],
+  "license": "OSL-3.0",
+  "author": {
+    "name": "Alex Liu",
+    "email": "itsbalex@gmail.com",
+    "url": "https://github.com/balexliu/"
+  },
+  "main": "index.js",
+  "bin": {
+    "cssa": "./cssa.js"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/balexliu/css-analyzer"
+  },
+  "dependencies": {
+    "nomnom": "~1.6.2"
+  }
+}
