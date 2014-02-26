@@ -1,6 +1,6 @@
 {
   "name": "css-analyzer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple tool to parse your CSS file and get selector and declaration counts.",
   "keywords": ["css, selectors, declaration, media query, selector count"],
   "license": "OSL-3.0",
