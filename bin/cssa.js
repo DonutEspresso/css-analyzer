@@ -2,10 +2,9 @@
 
 'use strict';
 
-var cssa = require('./css-analyzer'),
-    nomnom     = require('nomnom'),
+var cssa = require('../index'),
+    nomnom = require('nomnom'),
     args;
-
 
     args = nomnom
             .script('cssa')
